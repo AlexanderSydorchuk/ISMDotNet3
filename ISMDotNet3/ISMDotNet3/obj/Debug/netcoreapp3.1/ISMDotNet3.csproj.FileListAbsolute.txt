@@ -1,0 +1,13 @@
+C:\Users\Sasha\source\repos\ISMDotNet3\ISMDotNet3\bin\Debug\netcoreapp3.1\ISMDotNet3.exe
+C:\Users\Sasha\source\repos\ISMDotNet3\ISMDotNet3\bin\Debug\netcoreapp3.1\ISMDotNet3.deps.json
+C:\Users\Sasha\source\repos\ISMDotNet3\ISMDotNet3\bin\Debug\netcoreapp3.1\ISMDotNet3.runtimeconfig.json
+C:\Users\Sasha\source\repos\ISMDotNet3\ISMDotNet3\bin\Debug\netcoreapp3.1\ISMDotNet3.runtimeconfig.dev.json
+C:\Users\Sasha\source\repos\ISMDotNet3\ISMDotNet3\bin\Debug\netcoreapp3.1\ISMDotNet3.dll
+C:\Users\Sasha\source\repos\ISMDotNet3\ISMDotNet3\bin\Debug\netcoreapp3.1\ISMDotNet3.pdb
+C:\Users\Sasha\source\repos\ISMDotNet3\ISMDotNet3\obj\Debug\netcoreapp3.1\ISMDotNet3.csprojAssemblyReference.cache
+C:\Users\Sasha\source\repos\ISMDotNet3\ISMDotNet3\obj\Debug\netcoreapp3.1\ISMDotNet3.AssemblyInfoInputs.cache
+C:\Users\Sasha\source\repos\ISMDotNet3\ISMDotNet3\obj\Debug\netcoreapp3.1\ISMDotNet3.AssemblyInfo.cs
+C:\Users\Sasha\source\repos\ISMDotNet3\ISMDotNet3\obj\Debug\netcoreapp3.1\ISMDotNet3.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\source\repos\ISMDotNet3\ISMDotNet3\obj\Debug\netcoreapp3.1\ISMDotNet3.dll
+C:\Users\Sasha\source\repos\ISMDotNet3\ISMDotNet3\obj\Debug\netcoreapp3.1\ISMDotNet3.pdb
+C:\Users\Sasha\source\repos\ISMDotNet3\ISMDotNet3\obj\Debug\netcoreapp3.1\ISMDotNet3.genruntimeconfig.cache
